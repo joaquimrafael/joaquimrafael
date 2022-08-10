@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joaquimrafael
 - 👀 I’m interested in SPORTS
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on special and challenging project
 - 📫 How to reach me ...
 
 <!---
