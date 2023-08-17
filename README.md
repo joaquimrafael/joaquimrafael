@@ -1,4 +1,4 @@
-- Estudante de Ciência da Computação Mackenzie
-- São Paulo
+- Estudante de Ciência da Computação na Universidade Presbiteriana Mackenzie
+- São Paulo (SP)
 - joaquim.mpp@outlook.com
 - https://www.linkedin.com/in/joaquim-pereira-58661b285/
