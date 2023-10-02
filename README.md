@@ -1,4 +1,4 @@
-### Estudante de Ciência da Computação na Universidade Presbiteriana Mackenzie <h3>
+### Backend Developer <h3>
   - São Paulo (SP)
  
 ##
