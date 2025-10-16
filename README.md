@@ -1,6 +1,5 @@
 ### Software Engineer <h3>
   - São Paulo (SP)
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaquimrafael)](https://github.com/anuraghazra/github-readme-stats)
 ##
 <div style="display: inline_block"><br>
   <img align="center" alt="Joca-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
