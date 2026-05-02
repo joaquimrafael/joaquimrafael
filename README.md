@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Software Engineer · Backend · Distributed Systems · Cloud</b><br/>
-  <sub>Building high-throughput financial systems at scale 🚀</sub>
+  <sub>Building high-throughput financial systems at scale </sub>
 </p>
 
 <p align="center">
@@ -16,20 +16,20 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 Backend Software Engineer with experience building **high-throughput financial systems** at scale. Currently at **XP Inc.**, working on credit pipelines and distributed microservices. Previously built payment APIs at **Edenred (Ticket)**.
 
-- 🏦 Specialized in **financial-grade backend systems** with .NET/C# and Azure
-- ⚙️ Proficient in **distributed systems**: Kafka, Redis, Kubernetes
-- 🧱 Strong focus on architecture: **DDD, SOLID, Clean Architecture**
-- 🧪 Advocate for comprehensive testing: unit, integration, functional and contract layers
-- 🎓 CS degree @ **Universidade Presbiteriana Mackenzie** (graduating 2026)
-- 📍 São Paulo, Brasil
+- Specialized in **financial-grade backend systems** with .NET/C# and Azure
+- Proficient in **distributed systems**: Kafka, Redis, Kubernetes
+- Strong focus on architecture: **DDD, SOLID, Clean Architecture**
+- Advocate for comprehensive testing: unit, integration, functional and contract layers
+- CS degree @ **Universidade Presbiteriana Mackenzie** (graduating 2026)
+- São Paulo, Brasil
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -70,9 +70,9 @@ Backend Software Engineer with experience building **high-throughput financial s
 
 ---
 
-## 🏅 Certifications
+## Certifications
 
-- ☁️ **Google** — Cloud Computing Fundamentals
-- 🪟 **Microsoft** — Software Development Fundamentals
-- ⚡ **NVIDIA** — Accelerated Computing with CUDA C/C++
-- 🤖 **Anthropic** — Claude Code in Practice
+- **Google** — Cloud Computing Fundamentals
+- **Microsoft** — Software Development Fundamentals
+- **NVIDIA** — Accelerated Computing with CUDA C/C++
+- **Anthropic** — Claude Code in Practice
