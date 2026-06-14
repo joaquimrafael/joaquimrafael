@@ -36,6 +36,7 @@ Backend Software Engineer with experience building **high-throughput financial s
 <table><tr>
   <td align="center"><img alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"><br/><sub>C#</sub></td>
   <td align="center"><img alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"><br/><sub>Java</sub></td>
+  <td align="center"><img alt="Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg"><br/><sub>Go</sub></td>
   <td align="center"><img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><br/><sub>Python</sub></td>
   <td align="center"><img alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"><br/><sub>C</sub></td>
   <td align="center"><img alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"><br/><sub>JavaScript</sub></td>
