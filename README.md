@@ -24,7 +24,7 @@ Backend Software Engineer with experience building **high-throughput financial s
 - Proficient in **distributed systems**: Kafka, Redis, Kubernetes
 - Strong focus on architecture: **DDD, SOLID, Clean Architecture**
 - Advocate for comprehensive testing: unit, integration, functional and contract layers
-- CS degree @ **Universidade Presbiteriana Mackenzie** (graduating 2026)
+- CS degree @ **Universidade Presbiteriana Mackenzie** (graduated jun/2026)
 - São Paulo, Brasil
 
 ---
